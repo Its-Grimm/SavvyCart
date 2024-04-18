@@ -1,10 +1,24 @@
 # SavvyCart
 Languages:
-- Main Program: Python
-- Web Scraping: Python
-- Databasing:   PHP, SQL
-- Website:      HTML, CSS, JS, PHP
-- Android App:  Kotlin
+- Main Program: 
+    - Python
+
+- Web Scraping: 
+    - Python
+
+- Databasing:   
+    - PHP 
+    - SQL
+
+- Website:      
+    - HTML
+    - CSS
+    - JS
+    - PHP
+
+- Android App:
+    - Kotlin
+
 
 TODO List:
 - Get users general location
