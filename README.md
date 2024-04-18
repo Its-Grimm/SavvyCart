@@ -20,10 +20,9 @@ Languages:
     - Kotlin
 
 
-TODO List:
-- Get users general location
-    - Google Maps API: Paid after certain number of calls over certain duration 
-    - 
+ToDo List:
+- DONE Get users general location
+    - GeoCoder package
 
 - Find grocery stores in proximity to user
     - Google Maps API: Paid after certain number of calls over certain duration
