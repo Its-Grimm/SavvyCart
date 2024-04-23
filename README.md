@@ -25,8 +25,8 @@ ToDo List:
     - GeoCoder package
 
 - Find grocery stores in proximity to user
-    - Google Maps API: Paid after certain number of calls over certain duration
-    - 
+    - Selenium or other webcrawler on https://www.google.com/maps to find local companies name, location, and website through tags
+        - Not sure if obfuscated html class/names stay consistant with other computers or duration of time
 
 - Build local database of products sold by retailer at local store location only to user
     - Web scrape website with Python into SQL database, how long will it take and how much room will it take up?
